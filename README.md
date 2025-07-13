@@ -1,7 +1,7 @@
 Unsupervised Misinformation Detection with Incremental K-Means
 ==============================================================
 
-This repository contains my implementation of the unsupervised misinformation detection model using incremental K-Means, inspired by the research paper "Unsupervised Misinformation Detection Model using Incremental K-Means Algorithm" by Yashoda Barve and Jatinderkumar R. Saini. The project focuses on clustering misinformation (such as fake news) in health-related datasets, adapting to new data over time without requiring labeled examples.
+This repository contains my implementation of the unsupervised misinformation detection model using incremental K-Means, inspired by the research paper "Unsupervised Misinformation Detection Model using Incremental K-Means Algorithm" by Yashoda Barve and Jatinderkumar R. Saini. The project focuses on clustering misinformation (such as fake news), adapting to new data over time without requiring labeled examples.
 
 Overview
 --------
